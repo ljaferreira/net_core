@@ -1,1 +1,1 @@
-# net_core
+# Projeto exemplo de Arquitetura Limpa
